@@ -2,6 +2,8 @@
 
 - [Smodin: Multi-lingual Writing Assistance | English](https://smodin.io/)
 
+- [🔥 LetterBucket - Newsletters](https://letterbucket.com)
+
 - [English Tools.org - Tools for learning English](https://www.englishtools.org/en)
 
 - [Demo – InferKit](https://app.inferkit.com/demo)
