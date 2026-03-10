@@ -4,6 +4,10 @@
 
 - [AudioBB](https://audiobb.com/)
 
+- [🔥 WaFile - Mega.nz Search engine](https://wafile.com)
+
+- [🔥 Meawfy - Mega.nz & MegaUpload Search](https://meawfy.com)
+
 - [Cloudbox · The Automated Cloud Media Server](https://cloudbox.works/)
 
 - [Gerbera - A free media server. Stream your media to devices on your home network.](https://gerbera.io/)
